@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding_decors/static/css/main.c65be415.css",
-    "main.js": "/wedding_decors/static/js/main.d66148d6.js",
+    "main.css": "/wedding_decors/static/css/main.b5e14ff7.css",
+    "main.js": "/wedding_decors/static/js/main.9c56d561.js",
     "static/js/787.33cdebc8.chunk.js": "/wedding_decors/static/js/787.33cdebc8.chunk.js",
     "static/media/4.png": "/wedding_decors/static/media/4.392deaf7dbd0a13ea7bb.png",
     "static/media/2.png": "/wedding_decors/static/media/2.68ad3d84d2068e588c3f.png",
@@ -17,6 +17,7 @@
     "static/media/category-contemporary_wedding.jpg": "/wedding_decors/static/media/category-contemporary_wedding.7758b12d0970b64b5b0c.jpg",
     "static/media/gallery-bg.jpg": "/wedding_decors/static/media/gallery-bg.21452c62fe1c3e72d327.jpg",
     "static/media/logo-main.png": "/wedding_decors/static/media/logo-main.1abfa5e5896bc72a9466.png",
+    "static/media/10.JPG": "/wedding_decors/static/media/10.fd419f835045ca19507a.JPG",
     "static/media/contact_form-bg.jpg": "/wedding_decors/static/media/contact_form-bg.3fdd4b1b304230703aa6.jpg",
     "static/media/category-traditional_wedding.jpg": "/wedding_decors/static/media/category-traditional_wedding.345aed9101d10bf4a6ab.jpg",
     "static/media/whatsapp__skj__image.png": "/wedding_decors/static/media/whatsapp__skj__image.28923c835a0d5016ac9b.png",
@@ -27,12 +28,12 @@
     "static/media/divider_title.webp": "/wedding_decors/static/media/divider_title.827a09771df655597076.webp",
     "index.html": "/wedding_decors/index.html",
     "static/media/slick.woff": "/wedding_decors/static/media/slick.295183786cd8a1389865.woff",
-    "main.c65be415.css.map": "/wedding_decors/static/css/main.c65be415.css.map",
-    "main.d66148d6.js.map": "/wedding_decors/static/js/main.d66148d6.js.map",
+    "main.b5e14ff7.css.map": "/wedding_decors/static/css/main.b5e14ff7.css.map",
+    "main.9c56d561.js.map": "/wedding_decors/static/js/main.9c56d561.js.map",
     "787.33cdebc8.chunk.js.map": "/wedding_decors/static/js/787.33cdebc8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c65be415.css",
-    "static/js/main.d66148d6.js"
+    "static/css/main.b5e14ff7.css",
+    "static/js/main.9c56d561.js"
   ]
 }
