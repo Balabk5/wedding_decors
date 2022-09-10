@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding_decors/static/css/main.68b7bd9e.css",
-    "main.js": "/wedding_decors/static/js/main.b2d7243d.js",
+    "main.css": "/wedding_decors/static/css/main.e651968a.css",
+    "main.js": "/wedding_decors/static/js/main.b4411837.js",
     "static/js/787.33cdebc8.chunk.js": "/wedding_decors/static/js/787.33cdebc8.chunk.js",
     "static/media/4.png": "/wedding_decors/static/media/4.392deaf7dbd0a13ea7bb.png",
     "static/media/2.png": "/wedding_decors/static/media/2.68ad3d84d2068e588c3f.png",
@@ -28,12 +28,12 @@
     "static/media/divider_title.webp": "/wedding_decors/static/media/divider_title.827a09771df655597076.webp",
     "index.html": "/wedding_decors/index.html",
     "static/media/slick.woff": "/wedding_decors/static/media/slick.295183786cd8a1389865.woff",
-    "main.68b7bd9e.css.map": "/wedding_decors/static/css/main.68b7bd9e.css.map",
-    "main.b2d7243d.js.map": "/wedding_decors/static/js/main.b2d7243d.js.map",
+    "main.e651968a.css.map": "/wedding_decors/static/css/main.e651968a.css.map",
+    "main.b4411837.js.map": "/wedding_decors/static/js/main.b4411837.js.map",
     "787.33cdebc8.chunk.js.map": "/wedding_decors/static/js/787.33cdebc8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68b7bd9e.css",
-    "static/js/main.b2d7243d.js"
+    "static/css/main.e651968a.css",
+    "static/js/main.b4411837.js"
   ]
 }
