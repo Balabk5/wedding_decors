@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/wedding_decors/static/css/main.e651968a.css",
-    "main.js": "/wedding_decors/static/js/main.b4411837.js",
+    "main.css": "/wedding_decors/static/css/main.1025a63e.css",
+    "main.js": "/wedding_decors/static/js/main.25688d3c.js",
     "static/js/787.33cdebc8.chunk.js": "/wedding_decors/static/js/787.33cdebc8.chunk.js",
     "static/media/4.png": "/wedding_decors/static/media/4.392deaf7dbd0a13ea7bb.png",
     "static/media/2.png": "/wedding_decors/static/media/2.68ad3d84d2068e588c3f.png",
     "static/media/5.png": "/wedding_decors/static/media/5.106e6592efca8f66e65c.png",
     "static/media/3.png": "/wedding_decors/static/media/3.dc0c07f3c99dbefe4bd5.png",
-    "static/media/1.png": "/wedding_decors/static/media/1.15b6b7b5a48b04c516c2.png",
+    "static/media/1.png": "/wedding_decors/static/media/1.95911289cf1da7a683e4.png",
     "static/media/6.png": "/wedding_decors/static/media/6.a7851318a66f59df3fac.png",
     "static/media/8.png": "/wedding_decors/static/media/8.41e18d17fe8e3cca3f32.png",
     "static/media/7.png": "/wedding_decors/static/media/7.e44bcfe795ec7da8e372.png",
     "static/media/9.png": "/wedding_decors/static/media/9.90cbf18eff6584ebd0a1.png",
     "static/media/category-themed_wedding.jpg": "/wedding_decors/static/media/category-themed_wedding.203750867e2e157fc45b.jpg",
+    "static/media/IMG_5729.jpg": "/wedding_decors/static/media/IMG_5729.6870c61de814292cf17a.jpg",
     "static/media/header-bg.jpg": "/wedding_decors/static/media/header-bg.e86eaf99e96d93062d9b.jpg",
-    "static/media/category-contemporary_wedding.jpg": "/wedding_decors/static/media/category-contemporary_wedding.7758b12d0970b64b5b0c.jpg",
+    "static/media/sjk_location_image.png": "/wedding_decors/static/media/sjk_location_image.d892773840fd1676fb8f.png",
     "static/media/gallery-bg.jpg": "/wedding_decors/static/media/gallery-bg.21452c62fe1c3e72d327.jpg",
     "static/media/logo-main.png": "/wedding_decors/static/media/logo-main.1abfa5e5896bc72a9466.png",
     "static/media/10.JPG": "/wedding_decors/static/media/10.fd419f835045ca19507a.JPG",
@@ -28,12 +29,12 @@
     "static/media/divider_title.webp": "/wedding_decors/static/media/divider_title.827a09771df655597076.webp",
     "index.html": "/wedding_decors/index.html",
     "static/media/slick.woff": "/wedding_decors/static/media/slick.295183786cd8a1389865.woff",
-    "main.e651968a.css.map": "/wedding_decors/static/css/main.e651968a.css.map",
-    "main.b4411837.js.map": "/wedding_decors/static/js/main.b4411837.js.map",
+    "main.1025a63e.css.map": "/wedding_decors/static/css/main.1025a63e.css.map",
+    "main.25688d3c.js.map": "/wedding_decors/static/js/main.25688d3c.js.map",
     "787.33cdebc8.chunk.js.map": "/wedding_decors/static/js/787.33cdebc8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e651968a.css",
-    "static/js/main.b4411837.js"
+    "static/css/main.1025a63e.css",
+    "static/js/main.25688d3c.js"
   ]
 }
